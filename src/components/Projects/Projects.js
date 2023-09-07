@@ -26,9 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="MarsDelight"
-              description="MarsDelight is a blockchain based food delivery system, imagined on Mars. The site functions on Ethereum, Polygon and Solana chains with Metamask & Fantom wallets. It also awards new users with NFTs directly in their wallets."
-              ghLink="https://github.com/AdarshGautam21/mars-delight-solidity"
-             // demoLink="https://chatify-49.web.app/"
+              description="Runner-Up at MLH SRM Hackathon, 2023. Mars restaurant food delivery applications displaying the menu using Pinata SDK (IPFS). Works on both Solana and Ethereum Chains.
+Skills- Solidity, Rust, React.js, Redux.js, Next.js, WalletConnect, Pinata SDK, IPFS, Phantom Wallet, Metamask."
+              demoLink="https://mars-delight.vercel.app/"
             />
           </Col>
 
@@ -36,8 +36,11 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Web3Funds (Under Development)"
-              description="Web3Funds is currently under development. It allows the users to accumulate funds to accelerate and incubate their Web3 projects with the use of blockchain. They can set a target amount and gain cash against it."
+              title="ShardZ (Under Development)"
+              description="ShardZ is a decentralized Video platform under development. Aims to add more value to your content streaming. It aims to scale as an 
+interactive decentralized platform combined with a marketplace where creators can sell there merchandize and items in auction. Creates Video \& Audio NFTs, which can be invested in. 
+The technology includes use of IPFS/IPNS, LightHouse, EVM, Velas Chain, Polygon Chain. 
+Skills Used- Solidity, React.js, Next.js, Javascript, Bootstrap CSS, HTML/CSS."
              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
              // demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -47,10 +50,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="CashHash"
-              description="It is a blockhain based money transfer system that can receive and send money on the blockchain and track the payments accurately. It uses Moralis APIs to read the blockchain and streamer files."
+              title="Vista-RCM"
+              description="Vista-RCM was created for a business owner. This project was a paid freelance project. Technology used- React.js, Redux.js, Node.js, JavaScript, CSS, HTML,"
               //ghLink=""
-             // demoLink="https://editor.soumya-jit.tech/"              
+             demoLink="https://vista-rcm.vercel.app/"              
             />
           </Col>
 
