@@ -64,7 +64,7 @@ Skills Used- Solidity, React.js, Next.js, Javascript, Bootstrap CSS, HTML/CSS."
               title="MedStory"
               description="MedStory is a blockchain based patient data tracker site. It saves the patient's data and presciption reports in the form of images and displays them to the medical practitioner, doctor or laboratory. Medstory was built with the idea that it will be provided to the medical entities on a SaaS model."
              ghLink="https://github.com/AdarshGautam21/MedStory"
-              //demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://medstory.vercel.app/"
             />
           </Col>
 
